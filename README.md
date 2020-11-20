@@ -7,3 +7,5 @@
   <a href="#">Link 1</a> |
   <a href="#">Link 2</a> 
 </p>
+
+<h1 align="center">Some Heading</h1>
