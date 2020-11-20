@@ -3,5 +3,7 @@
 #### dont even bother to look
 
 <p align="center">
-    <h1>Centered Test</h1>
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> 
 </p>
