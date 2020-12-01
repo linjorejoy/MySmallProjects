@@ -2,4 +2,9 @@ other A1
 
 some more added here
 
+<<<<<<< HEAD
 oth user added here
+=======
+
+orig user added here
+>>>>>>> d4cf74989580cb1a1c4c2785cf0d54140d2c1004
